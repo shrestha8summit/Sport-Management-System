@@ -1,0 +1,147 @@
+html{
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    align-items: center;
+    padding-top: 1.5%;
+    scroll-behavior: smooth;
+    font-size: 25px;
+}
+
+body::-webkit-scrollbar
+{
+   width: 0px;
+}
+
+
+input
+{
+   padding:7.5px;
+   border-radius: 10px;
+}
+
+a
+{
+   text-decoration: none;
+   color: #A23BEC;
+}
+
+button{
+   padding: 10px 20px;
+   margin-top: 15px;
+   text-decoration: none;
+   border-radius: 10px;
+   font-family:sans-serif;
+   background-color: #fff;
+   border: none;
+   box-shadow: 0px 8px 15px rgba(0,0,0,0.1);
+   transition: all 0.3s ease 0s;
+   cursor: pointer;
+   outline:none;
+   text-decoration: none;
+   text-transform: uppercase;
+}
+
+
+button:hover
+{
+   background-color: #17d086;
+   box-shadow: 0px 15px 20px rgba(46,229,157,0.4);
+   color: #fff;
+   transform:translate(+7px);
+}    
+
+#containner div
+{
+   margin: 10px 20px;
+   font-size: 20.5px;
+}
+
+legend
+{
+   background-color: unset;
+   padding: 25px;
+   border-radius: 40px;
+   margin: 0px 10px;
+}
+
+fieldset
+{
+   border-radius: 12px;
+   padding: 20px;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Eczar', serif;
+   border:2px outset;
+   background:linear-gradient(45deg, tomato,gold);
+   border-radius: 55px 11px 55px 11px;
+   transition: all 1s ease-in-out;
+   margin-bottom: 20px;
+}
+
+fieldset:hover
+{
+   box-shadow:20px 21px #6c6b6b;
+   transition: all 0.3s ease-in-out;
+   background-color:#843c1e;
+}
+
+form
+{
+   border: 2px whitesmoke solid;
+   padding: 25px;
+   border-radius: 10px;
+}
+
+form ::placeholder
+{
+  text-align: center;
+}
+
+
+#login
+{
+   display: inline-block;
+}
+
+#naccount div
+{
+   margin-top: 25px;
+   display:inline-block;
+   padding: 10px;
+}
+
+
+#footer
+{
+ display: block;
+ margin-top: 25px;
+ /* background:  rgb(53, 78, 220); */
+ padding: 5%;
+ border-radius: 40px;
+ background: linear-gradient(20deg ,#FD830D,#E9F4FF,#5db3f5,#5db3f5,#E9F4FF,#FD830D);
+}
+
+/* RESET WEBPAGE: */
+
+#reset
+{
+   border-radius: 12px;
+   padding: 20px;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Eczar', serif;
+   border:2px outset;
+   background:linear-gradient(45deg, tomato,gold);
+   border-radius: 55px 11px 55px 11px;
+   transition: all 1s ease-in-out;
+   margin-bottom: 20px;
+}
+
+#reset:hover
+{
+   box-shadow:20px 21px #6c6b6b;
+   transition: all 0.3s ease-in-out;
+   background-color:#843c1e;
+}

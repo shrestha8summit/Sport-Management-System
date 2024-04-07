@@ -1,0 +1,81 @@
+html{
+    background-color: #000000;
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    align-items: center;
+    padding-top: 1.5%;
+    scroll-behavior: smooth;
+    font-size: 25px;
+}
+
+body::-webkit-scrollbar
+{
+   width: 0px;
+}
+
+
+input
+{
+   padding:7.5px;
+   border-radius: 10px;
+}
+
+a
+{
+   text-decoration: none;
+   color: #A23BEC;
+}
+
+button{
+   padding: 10px 20px;
+   margin-top: 15px;
+   text-decoration: none;
+   border-radius: 10px;
+   font-family:sans-serif;
+   background-color: #fff;
+   border: none;
+   box-shadow: 0px 8px 15px rgba(0,0,0,0.1);
+   transition: all 0.3s ease 0s;
+   cursor: pointer;
+   outline:none;
+   text-decoration: none;
+   text-transform: uppercase;
+}
+
+
+button:hover
+{
+   background-color: #17d086;
+   box-shadow: 0px 15px 20px rgba(46,229,157,0.4);
+   color: #fff;
+   transform:translate(+7px);
+}    
+
+
+/* //uncommon part */
+
+fieldset{
+    border: 0px solid red;
+}
+
+#btn
+{
+   border-radius: 12px;
+   padding: 20px;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Eczar', serif;
+   /* border:2px outset; */
+   background:linear-gradient(45deg, tomato,gold);
+   border-radius: 55px 11px 55px 11px;
+   transition: all 1s ease-in-out;
+   display: inline-block;
+}
+
+#btn:hover
+{
+   box-shadow:20px 21px #6c6b6b;
+   transition: all 0.3s ease-in-out;
+   background-color:#843c1e;
+}
