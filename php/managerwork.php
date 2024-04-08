@@ -16,9 +16,6 @@
        
         <div class="header">
             <div class="real_content" style="padding-left: 6rem;">                        
-                <a href="#Team" style="padding-right: 1rem;">Team</a>
-                <a href="#Player" style="padding-right: 1rem;">Player</a>
-                <a href="#coach" style="padding-right: 1rem;">Coach</a>
                 <a href="#matches" style="padding-right: 1rem;">Match</a>                    
             </div>
         </div>   

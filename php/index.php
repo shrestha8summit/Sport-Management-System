@@ -19,7 +19,8 @@
              <div id="btns">
                 <button id="DBA-el" style="margin-right: 1rem;">DBA</button>
                 <button id="Regestration-el" style="margin-right: 1rem;">Regestration</button>
-                <button id="Managers-el">Managers</button>
+                <button id="Managers-el" style="margin-right: 1rem;">Managers</button>
+                <button id="Schedule-el" >Schedule</button>
              </div>
 
             <p style="margin-top: 45px;">
