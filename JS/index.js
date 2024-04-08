@@ -9,7 +9,7 @@ DBAEl.addEventListener("click",function()
 
 RegestrationEl.addEventListener("click",function()
 {
-    window.location.href ="Form.php";
+    window.location.href ="Form1.php";
 })
 
 ManagerEl.addEventListener("click",function()
