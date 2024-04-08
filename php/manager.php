@@ -9,9 +9,9 @@
 </head>
 <body>
     <div class="container" style="display:inline-block;">
-        <h1>" Welcome DBA "</h1>
+        <h1>" Welcome Manager "</h1>
 
-        <form action="login.php" method="POST">
+        <form action="login_manager.php" method="POST">
            
         <div id="detail">
 

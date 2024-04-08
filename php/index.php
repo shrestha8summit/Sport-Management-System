@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sports Management System</title>
     <link rel="stylesheet" href="..\CSS\style.css">
-    <link rel="shrortcut icon" type="x-image/icon" href="..\Pics\logo1.png">
+    <link rel="shrortcut icon" type="x-image/icon" href="logo1.png">
 </head>
 <body>
 
