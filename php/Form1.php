@@ -52,7 +52,7 @@
       
       
                   <label for="Team_id">Team Id:</label>
-                  <input type="text" id="Team_id" name="Team_id" placeholder="1108" required>
+                  <input type="text" id="Team_id" name="Team_id" placeholder="COE1108" required>
       
                  
       
@@ -94,7 +94,7 @@
                         <legend style="padding: 10px; margin:10px;font-size: 25px;background: rebeccapurple;">For participants only</legend>
                              
                         <label for="player_Id">Player ID:</label>
-                        <input type="text" name="player_Id" id="player_Id" placeholder="COE888" required>
+                        <input type="text" name="player_Id" id="player_Id" placeholder="COEP888" required>
      
                         <label for="player_Name">Player Name</label>
                         <input type="text" name="player_Name" id="player_Name" placeholder="Anurgh" required>
@@ -134,7 +134,7 @@
                   <input type="text" name="coach_name" id="coach_name" placeholder="James Pradhan" required>
       
                   <label for="coach_id" style="margin-left: 1rem;">Coach ID:</label>
-                  <input type="text" name="coach_id" id="coach_id" placeholder="CCOE888" required>
+                  <input type="text" name="coach_id" id="coach_id" placeholder="COEC888" required>
       
 
                   <br>
@@ -200,7 +200,7 @@
 
         <button id="back-el">Option page</button>
 
-        <div id="footer" style="margin-top:5%;">
+        <!-- <div id="footer" style="margin-top:5%;">
             <br><br><br><br>
             <center> 
 
@@ -223,7 +223,7 @@
 
             </center>
 
-        </div>
+        </div> -->
 
     </div>
 
