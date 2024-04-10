@@ -125,7 +125,7 @@ $match_result = mysqli_query($conn, $match_query);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/x-icon" href="logo1.png">
+    <link rel="shortcut icon" type="image/x-icon" href="..\Pics\logo1.png">
     <link rel="stylesheet" href="..\CSS\workspace.css">
     <title>Your Schedule</title>
 </head>

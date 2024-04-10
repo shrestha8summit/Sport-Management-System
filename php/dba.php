@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="../CSS/dba.css">
-    <link rel="shortcut icon" type="image/x-icon" href="logo1.png">
+    <link rel="shortcut icon" type="image/x-icon" href="..\Pics\logo1.png">
 </head>
 <body>
     <div class="container" style="display:inline-block;">

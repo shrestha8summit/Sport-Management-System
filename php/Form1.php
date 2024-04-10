@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Registration form</title>
-    <link rel="shortcut icon" type="image/x-icon" href="logo1.png">
+    <link rel="shortcut icon" type="image/x-icon" href="..\Pics\logo1.png">
     <link rel="stylesheet" href="../CSS/style2.css">
 </head>
 <body>
@@ -24,7 +24,7 @@
         </div>   
 
         <br>
-        <img src="logo.png" alt="" style="width: 450px; height:400px; align-items: center; display: flex;margin-left: 32.5%;"> 
+        <img src="../Pics/logo.png" alt="" style="width: 450px; height:400px; align-items: center; display: flex;margin-left: 32.5%;"> 
 
         <marquee behavior="slow" direction="left" style="margin-top:-20%; margin-left: 20%; margin-right: 20%; font-size: 25px;">
             Welcome to our web-page to fill the your respective details.
