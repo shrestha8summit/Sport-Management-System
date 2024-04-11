@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $home_team = mysqli_real_escape_string($conn, $_POST['home_teams']);
     $away_team = mysqli_real_escape_string($conn, $_POST['away_team']);
     
-    // Attempt insert query execution
+    
     $sql = "INSERT INTO `match` (match_id, ground, dateofgame, home_team, away_team) VALUES ('$matchid', '$ground', '$dateofgame', '$home_team', '$away_team')";
     if(mysqli_query($conn, $sql)){
         echo "Records added successfully.";
@@ -27,7 +27,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 }
 
-// Close connection
 $conn->close();
 ?>
 
