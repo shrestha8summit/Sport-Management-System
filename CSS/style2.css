@@ -144,3 +144,8 @@ button:hover
  background: linear-gradient(20deg ,#FD830D,#E9F4FF,#5db3f5,#5db3f5,#E9F4FF,#FD830D);
 }
 
+#bgneed{
+   background: linear-gradient(0.25turn, #3f87a6, #282a69, #f69d3c);
+   padding: 2.5% 5%;
+   border-radius: 25px;
+}

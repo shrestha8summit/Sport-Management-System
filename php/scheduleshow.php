@@ -134,7 +134,7 @@ $match_result = mysqli_query($conn, $match_query);
 
     <div id="container" style="display: inline-block;">
 
-    <h2>Hope to see your Schedule poperly and reach to the match at or before 8:45 am.</h2>
+    <h2>Reach to the match at or before 8:45 am.</h2>
 
       <fieldset id="table-el" style="margin-top: 5%;">
 

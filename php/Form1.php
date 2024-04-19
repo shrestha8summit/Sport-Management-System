@@ -11,6 +11,7 @@
     
     <div id="containner">
 
+        <div id="bgneed">
         <h1 id="top">Sports Management System</h1>
         <br>
        
@@ -22,6 +23,7 @@
                 <a href="#matches" style="padding-right: 1rem;">Match</a>                    
             </div>
         </div>   
+        </div>
 
         <br>
         <img src="../Pics/logo.png" alt="" style="width: 450px; height:400px; align-items: center; display: flex;margin-left: 32.5%;"> 

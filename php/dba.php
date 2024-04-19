@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="../CSS/dba.css">
     <link rel="shortcut icon" type="image/x-icon" href="..\Pics\logo1.png">
 </head>
-<body>
+<body background="https://img.freepik.com/free-vector/gradient-abstract-wireframe-background_23-2149009903.jpg?size=626&ext=jpg&ga=GA1.1.1486584256.1713417944&semt=ais" style="background-repeat:no-repeat; background-size: 100% 100%;">
     <div class="container" style="display:inline-block;">
-        <h1>" Welcome DBA "</h1>
+        <h1>" Welcome SID "</h1>
 
         <form action="login.php" method="POST">
            
