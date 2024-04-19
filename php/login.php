@@ -4,7 +4,7 @@ include "db.php";
 
 if(isset($_POST['uid'], $_POST['pass'])) {
     $uid = $_POST['uid'];
-    $pass =  $_POST['pass'];
+    $pass = $_POST['pass'];
 
     $sql = "SELECT * FROM login WHERE uid='$uid' AND pass='$pass'";
     $result = mysqli_query($conn, $sql);
